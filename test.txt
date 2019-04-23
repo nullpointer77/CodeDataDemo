@@ -1,7 +1,1 @@
-this is an awesome test file aaa.
-
-blah blah blah  aa.
-
-more tet here  aa.
-
-insert
+hotfixed file.
