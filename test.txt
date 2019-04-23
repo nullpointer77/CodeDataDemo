@@ -1,5 +1,3 @@
 hotfixed file AB.
 
 file with information in it.
-
-more changes.
