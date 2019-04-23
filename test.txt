@@ -1,5 +1,5 @@
-this is an awesome test file bbb.
+this is an awesome test file.
 
-blah blah blah bbb.
+blah blah blah.
 
-more tet here bbb.
+more tet here.
