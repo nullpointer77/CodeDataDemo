@@ -1,7 +1,7 @@
-this is an awesome test file   aaaaa.
+this is an awesome test file.
 
-blah blah blah  aaaa.
+blah blah blah.
 
-more tet here aaaa.
+more tet here.
 
 insert
